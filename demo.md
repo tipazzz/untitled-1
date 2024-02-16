@@ -7,7 +7,7 @@
 
 ### ~ tutorialhint
 ``` blocks
-player.onChat("road_1", function () {
+player.onChat("дорога", function () {
     blocks.fill(
     GRASS,
     pos(0, 0, 0),
@@ -22,7 +22,7 @@ player.onChat("road_1", function () {
 ### ~ tutorialhint
 
 ``` blocks
-player.onChat("road_1", function () {
+player.onChat("дорога", function () {
     blocks.fill(
     GRAY_CONCRETE,
     pos(0, 0, 0),
@@ -37,7 +37,7 @@ player.onChat("road_1", function () {
 
 ### ~ tutorialhint
 ``` blocks
-player.onChat("road_1", function () {
+player.onChat("дорога", function () {
     blocks.fill(
     GRAY_CONCRETE,
     world(0, 0, 0),
@@ -52,7 +52,7 @@ player.onChat("road_1", function () {
 
 ### ~ tutorialhint
 ``` blocks
-player.onChat("road_1", function () {
+player.onChat("дорога", function () {
     blocks.fill(
     GRAY_CONCRETE,
     world(0, 0, 0),
@@ -67,7 +67,7 @@ player.onChat("road_1", function () {
 
 ### ~ tutorialhint
 ``` blocks
-player.onChat("road_1", function () {
+player.onChat("дорога", function () {
     blocks.fill(
     GRAY_CONCRETE,
     world(-21, 68, -565),
@@ -83,7 +83,7 @@ player.onChat("road_1", function () {
 
 ### ~ tutorialhint
 ``` blocks
-player.onChat("road_2", function () {
+player.onChat("дорога2", function () {
     blocks.fill(
     GRAY_CONCRETE,
     world(-21, 68, -532),
