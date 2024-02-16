@@ -6,7 +6,7 @@ Unplugged Tutorial modal.
 
 ## Schritt zwei
 
-Fügen Sie den Block ``||player:on chat command||`` hinzu und ändern Sie den Befehl in ** text **.
+Fügen Sie den Block ``||игрок: прикоманде чата||`` hinzu und ändern Sie den Befehl in ** text **.
 
 ```blocks
 player.onChat("text", function () {
